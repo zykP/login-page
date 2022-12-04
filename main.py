@@ -1,5 +1,3 @@
-
-
 from flask import Flask,render_template,session,request,redirect,g,url_for
 import os
 
